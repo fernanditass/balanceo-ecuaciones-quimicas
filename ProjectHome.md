@@ -1,0 +1,1 @@
+Este programa permite ingresar hasta 4 reactivos y 4 productos de una reacción, entonces el programa toma cada uno de estos compuestos y los balancea, por último muestra la ecuación ya balanceada.
